@@ -1,0 +1,4 @@
+
+1. cms_finger.db  必须存在。
+
+2. cms_finger.db 可以放到主程序同一个目录下， 也可以直接放到 c:\windows\system32\下
